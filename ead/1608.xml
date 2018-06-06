@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-ilsfu" url="Archon Finding Aid location">J.11.09/05</eadid><filedesc><titlestmt><titleproper>Archon Finding Aid Title <num>J.11.09/05</num></titleproper></titlestmt><publicationstmt><publisher>UIS Archives/Special Collections</publisher><address><addressline>Archives/Special Collections LIB 144</addressline><addressline>One University Plaza, MS BRK 140</addressline><addressline>Springfield, IL 62703-5407</addressline><addressline>twood1@uis.edu</addressline><addressline>URL: <extptr xlink:href="https://library.uis.edu/archives/index.html" xlink:show="new" xlink:title="https://library.uis.edu/archives/index.html" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2018-06-06 18:22:36 -0400</date>.</creation><langusage>und</langusage><descrules>other_unmapped</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>UIS Archives/Special Collections</corpname>
+    </repository>
+    <unittitle>J11/9/5. Applied Studies Program Student Files, 1970- RESTRICTED</unittitle>
+    <origination label="creator">
+      <persname source="lcnaf">Academic Affairs</persname>
+    </origination>
+    <unitid>J.11.09/05</unitid>
+    <unitid audience="internal" identifier="570" type="Archon Instance::COLLECTION">570</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">29.33 Cubic Feet</extent>
+    </physdesc>
+    <unitdate>Date acquired: 11/10/1980</unitdate>
+    <container id="aspace_56683452be5a1818a69a84382c63460d" label="Text" type="box">1</container>
+    <container id="aspace_068f158125da0ed2fd90cbc20b50764d" label="Text" type="box">2</container>
+    <container id="aspace_340e6eb570c086adc38325b8bd256f7d" label="Text" type="box">3</container>
+    <container id="aspace_2985a0dc9c80c46ed589124b5473c921" label="Text" type="box">4</container>
+    <container id="aspace_4fcf8d5dc17fd63d0c2b11e020d25efe" label="Text" type="box">5</container>
+    <container id="aspace_57a8306f900b72ead40e02621979651e" label="Text" type="box">11</container>
+    <container id="aspace_c233278f0f60f786d46e14a7daa3a9ab" label="Text" type="box">12</container>
+    <container id="aspace_68694d8a455008198e243ebffaf38214" label="Text" type="box">13</container>
+    <container id="aspace_d42b6fb9eb43feffabe8f58e1bb4d224" label="Text" type="box">14</container>
+    <container id="aspace_c9e9599b4717f260565eaa75fbf48fc7" label="Text" type="box">15</container>
+    <container id="aspace_304bcad8538f5b4142fdd2fa51067a3e" label="Text" type="box">16</container>
+    <container id="aspace_6ca575a6a864ab346645ff8a9474ba85" label="Text" type="box">17</container>
+    <container id="aspace_e2759c65a5e788c07286a5943c4f5319" label="Text" type="box">18</container>
+    <container id="aspace_06ea013a8504a51ec7190b08b1d26bad" label="Text" type="box">19</container>
+    <container id="aspace_1e390b98582a927bb98b6782e6935442" label="Text" type="box">20</container>
+    <container id="aspace_b0e3cef0b0a8b467be388ac97ca54dc0" label="Text" type="box">21</container>
+    <container id="aspace_071cc0a1d20c26e95bf65a148d2144a5" label="Text" type="box">22</container>
+    <container id="aspace_1da05d2a5f4b4cdb1c0b8f871a801b6b" label="Text" type="box">23</container>
+    <container id="aspace_f6ae9623c34e6b6b2190e8f9da669ec1" label="Text" type="box">24</container>
+    <container id="aspace_70ef41f0c54bca67f41091b393b82c80" label="Text" type="box">25</container>
+    <container id="aspace_f5d24308c3eff4d22ccdf95fb815eb86" label="Text" type="box">26</container>
+    <container id="aspace_0e13373a7161024d5e70f8ce0c3b42f4" label="Text" type="box">27</container>
+    <container id="aspace_c1132d6cd5529f547b30c6e646c4b2d9" label="Text" type="box">28</container>
+    <container id="aspace_df825a3fdd147009b1f41f4459d19a25" label="Text" type="box">29</container>
+    <container id="aspace_ea916a760c3f9234185341de57eb7df5" label="Text" type="box">30</container>
+    <container id="aspace_74485b4d2906149e3b2b5c9e297611ec" label="Text" type="box">6&amp;7</container>
+    <container id="aspace_fac601ac04b95675e71aa22578cdaaf5" label="Text" type="box">8</container>
+    <container id="aspace_5243ec045c98192e77ced4856368d71f" label="Text" type="box">9</container>
+    <container id="aspace_d67d356f441aa3268f7da09988b9b6b9" label="Text" type="box">10</container>
+  </did>
+  <scopecontent id="aspace_ac142e9d694d1e69a1ee991b83697309">
+    <head>Scope and Contents</head>
+<p>Student records of the Applied Study Office include student vita; correspondence; field reports by visiting faculty; contracts for AST assignments; student journals and logs; mid-term and final reports; supervisor evaluations; other documents related to students respective assignments.  There are waiver  files for students exempted from the AST requirement.
+ADDITIONS: 8/23/82; 6/30/93; 7/84; 1/85; 1/5/90; 2/2/90; 3/2/94.  
+Waiver files purged (see separate inventory list in box list file) (Boxes 6-38 purged-3/94), Box numbers revised-8/23/07;
+Boxes 1-5 shelved Row 6. 
+Boxes 6-30 shelved 9G3 through 9H7.</p>  </scopecontent>
+  <arrangement id="aspace_a79258efad334a5a3f9912dead69a23f">
+    <head>Arrangement Note</head>
+<p>Alphabetical by name</p>  </arrangement>
+  <acqinfo id="aspace_91ba4ae6ce76f6231d5c9b3358db7ff6">
+    <head>Source of Acquisition</head>
+<p>Applied Study Office</p>  </acqinfo>
+  <acqinfo id="aspace_5aaf782b0546cc9d3893539785079a83">
+    <head>Method of Acquisition</head>
+<p>Additions: 8/23/1982, 6/30/1993, 7/1984, 1/1985, 1/5/1990, 2/2/1990, 3/2/1994, 11/11/1994, 12/20/1994, 12/22/1994/ 3/11/1996</p>  </acqinfo>
+  <dsc/>
+</archdesc>
+</ead>

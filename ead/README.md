@@ -65,4 +65,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [J.09.09/529.xml](1528.xml) | J.09.09/529 | J.09.09/529 | J9/9/529. Creative Arts Program, Staff and Student Art Portfolio, 1985 |   [PDF](1528.pdf) 
  [J.09.05/11.xml](1546.xml) | J.09.05/11 | J.09.05/11 | J9/5/11. History Program, Graduation Reports, 1972-1977 RESTRICTED |   [PDF](1546.pdf) 
  [J.06.09/11.xml](1574.xml) | J.06.09/11 | J.06.09/11 | J6/9/11. Management Program Graduation Records, 1972-1978 RESTRICTED |   [PDF](1574.pdf) 
+ [J.11.09/05.xml](1608.xml) | J.11.09/05 | J.11.09/05 | J11/9/5. Applied Studies Program Student Files, 1970- RESTRICTED |   [PDF](1608.pdf) 
+ [J.12.07/10.xml](1639.xml) | J.12.07/10 | J.12.07/10 | J12/7/10. Environmental Studies Program Student Files, 1975-1984 RESTRICTED |   [PDF](1639.pdf) 
+ [J.12.07/11.xml](1640.xml) | J.12.07/11 | J.12.07/11 | J12/7/11. Environmental Studies Program Graduation Reports, 1973-1982 RESTRICTED |   [PDF](1640.pdf) 
 
