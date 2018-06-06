@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-ilsfu" url="Archon Finding Aid location">O.H125</eadid><filedesc><titlestmt><titleproper>Archon Finding Aid Title <num>O.H125</num></titleproper></titlestmt><publicationstmt><publisher>UIS Archives/Special Collections</publisher><address><addressline>Archives/Special Collections LIB 144</addressline><addressline>One University Plaza, MS BRK 140</addressline><addressline>Springfield, IL 62703-5407</addressline><addressline>twood1@uis.edu</addressline><addressline>URL: <extptr xlink:href="https://library.uis.edu/archives/index.html" xlink:show="new" xlink:title="https://library.uis.edu/archives/index.html" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2018-06-06 17:33:58 -0400</date>.</creation><langusage>und</langusage><descrules>other_unmapped</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>UIS Archives/Special Collections</corpname>
+    </repository>
+    <unittitle>Haigwood, John Henry  (1919-1995): Interview and memoir</unittitle>
+    <unitid>O.H125</unitid>
+    <unitid audience="internal" identifier="1287" type="Archon Instance::COLLECTION">1287</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">6.00 items</extent>
+    </physdesc>
+    <unitdate>Dummy Date</unitdate>
+  </did>
+  <scopecontent id="aspace_9cf627b77d08dcaa9fc912899b93dc3c">
+    <head>Scope and Contents</head>
+<p>PRISONER OF WAR EXPERIENCES IN WORLD WAR II 
+Haigwood, army infantryman, discusses his experiences as a Japanese prisoner of war: pre-WWII enlistment and training; service in the Philippines, Japanese attack on Pearl Habor and the Philippines; combat, capture on Corregidor Island; internment at Camp Cabanatuan and Mukden in Manchuria, treatment and conditions, work in steel machinery and tanning factories; liberation by the Russian Army and return to the U.S. </p><p>4 tapes, 287 mins., 63 pp. 
+Interview by Glenn Kniss, 1985 
+RESTRICTED: May be read and quoted but cannot be published or reproduced. No bound copy, only manuscript copy in collateral file. 
+See collateral file</p>  </scopecontent>
+  <accessrestrict id="aspace_e8786f79f7dc7e505349f58c73f2da7c">
+    <head>Conditions Governing Access</head>
+<p>RESTRICTED: May be read and quoted but cannot be published or reproduced. No bound copy, only manuscript copy in collateral file.</p>  </accessrestrict>
+  <dsc/>
+</archdesc>
+</ead>

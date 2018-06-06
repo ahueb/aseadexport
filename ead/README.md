@@ -37,4 +37,6 @@ EAD | EAD ID | Identifier | Title | Other versions
  [##bs0.xml](822.xml) | ##bs0 | ##bs0 | O'Brien, Francis J. "O. B.": Interview and Memoir |   [PDF](822.pdf) 
  [O.M612.xml](904.xml) | O.M612 | O.M612 | Miller, Bill (A.W. Pistorius)  b. 1923: Interview and Memoir |   [PDF](904.pdf) 
  [O.M137.xml](939.xml) | O.M137 | O.M137 | McCoy, Mel  b. 1908: Interview and memoir |   [PDF](939.pdf) 
+ [O.H125.xml](1103.xml) | O.H125 | O.H125 | Haigwood, John Henry  (1919-1995): Interview and memoir |   [PDF](1103.pdf) 
+ [O.C151.xml](1135.xml) | O.C151 | O.C151 | Campbell, Bob (1912-2001): Interview and memoir |   [PDF](1135.pdf) 
 
