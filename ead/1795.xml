@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-ilsfu" url="Archon Finding Aid location">J.01.05/45</eadid><filedesc><titlestmt><titleproper>Archon Finding Aid Title <num>J.01.05/45</num></titleproper><author>Allison Bates</author></titlestmt><publicationstmt><publisher>UIS Archives/Special Collections</publisher><address><addressline>Archives/Special Collections LIB 144</addressline><addressline>One University Plaza, MS BRK 140</addressline><addressline>Springfield, IL 62703-5407</addressline><addressline>twood1@uis.edu</addressline><addressline>URL: <extptr xlink:href="https://library.uis.edu/archives/index.html" xlink:show="new" xlink:title="https://library.uis.edu/archives/index.html" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2018-06-06 18:35:43 -0400</date>.</creation><langusage>und</langusage><descrules>other_unmapped</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>UIS Archives/Special Collections</corpname>
+    </repository>
+    <unittitle>J1/5/45. Faculty Personnel Office, Former Faculty Files, RESTRICTED</unittitle>
+    <unitid>J.01.05/45</unitid>
+    <unitid audience="internal" identifier="1866" type="Archon Instance::COLLECTION">1866</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.33 Cubic Feet</extent>
+    </physdesc>
+    <unitdate normal="1970/2010" type="inclusive">1970-2010</unitdate>
+    <unitdate>Date acquired: 02/01/2016</unitdate>
+    <container id="aspace_93d3b29ba8193f9b86ec9ec208b4e5e3" label="Text" type="box">1</container>
+    <container id="aspace_12581c6b17dfce48f5a56c67ad1023b1" label="Text" type="box">2</container>
+  </did>
+  <scopecontent id="aspace_c74cda38d4bfd9ab6bcb106a31c3fb84">
+    <head>Scope and Contents</head>
+<p>This collection contains faculty personnel files kept by the Vice Chancellor for Academic Affairs.  These files contain notification of appointments and re-appointments: non-instructional assignment reports; professional activities reports; recommendations and decisions about retention, promotion, merit pay increase and tenure; appeals of decisions; documentation of public affairs activities; copies of published books and articles. These are the files on which Program, Cluster, and University Personnel Committees base their recommendations to conveners, deans, vice president for academic affairs and chancellor. These are files of either faculty, emeritus, resigned, or terminated.</p><p>Closed faculty personnel files are restricted for use only by the Vice Chancellor for Academic Affairs and the Chancellor's Office.  This collection includes faculty who taught at SSU/UIS from 1970-2010.</p>  </scopecontent>
+  <arrangement id="aspace_216a234bbb88de8e94e704b0586f1844">
+    <head>Arrangement Note</head>
+<p>Alphabetical by name</p>  </arrangement>
+  <accessrestrict id="aspace_1eea43bd5037c2b88874d561e6018c0f">
+    <head>Conditions Governing Access</head>
+<p>RESTRICTED</p>  </accessrestrict>
+  <acqinfo id="aspace_09f97ed9247f13648a6ffefe47c9bd0d">
+    <head>Source of Acquisition</head>
+<p>Vice President of Academic Affairs, Faculty Personnel Office</p>  </acqinfo>
+  <controlaccess>
+    <genreform source="local">Records</genreform>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

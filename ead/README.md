@@ -98,4 +98,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [O.T753.xml](1733.xml) | O.T753 | O.T753 | Troop, Dottie: Interview and Memoir |   [PDF](1733.pdf) 
  [O.T139.xml](1734.xml) | O.T139 | O.T139 | Takeuchi, John M.: Interview and Memoir |   [PDF](1734.pdf) 
  [O.SU86.xml](1735.xml) | O.SU86 | O.SU86 | Suttles, Dennis: Intervew and Memoir |   [PDF](1735.pdf) 
+ [O.OS1.1.xml](1754.xml) | O.OS1.1 | O.OS1.1 | Osborne, Richard C.: Interview and Memoir |   [PDF](1754.pdf) 
+ [J.01.05/45.xml](1795.xml) | J.01.05/45 | J.01.05/45 | J1/5/45. Faculty Personnel Office, Former Faculty Files, RESTRICTED |   [PDF](1795.pdf) 
+ [J.01.05/44.xml](1796.xml) | J.01.05/44 | J.01.05/44 | J1/5/44. Faculty Personnel Office, Academic Professional Files, RESTRICTED |   [PDF](1796.pdf) 
 
