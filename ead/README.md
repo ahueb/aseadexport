@@ -22,4 +22,9 @@ EAD | EAD ID | Identifier | Title | Other versions
  [E.04.02/02.xml](642.xml) | E.04.02/02 | E.04.02/02 | E4/2/2. University Legal Counsel Grievance Files, 1984-1992 |   [PDF](642.pdf) 
  [E.04.02/05.xml](648.xml) | E.04.02/05 | E.04.02/05 | E4/2/5. University Legal Counsel National League of Nursing Review |   [PDF](648.pdf) 
  [E.04.02/07.xml](650.xml) | E.04.02/07 | E.04.02/07 | E4/2/7. University Legal Counsel, Accession Date 08/27/1997 |   [PDF](650.pdf) 
+ [E.04.02/08.xml](651.xml) | E.04.02/08 | E.04.02/08 | E4/2/8. University Legal Counsel Grievance Files, 1975-1992 |   [PDF](651.pdf) 
+ [J.01.01/24.xml](687.xml) | J.01.01/24 | J.01.01/24 | J1/1/24 Vice President Academic Affairs  John Keiser & Sue A. Deze |   [PDF](687.pdf) 
+ [J.01.05/05.xml](693.xml) | J.01.05/05 | J.01.05/05 | J1/5/5. Faculty Personnel Office Personnel Committee Files, 1973-1986  RESTRICTED |   [PDF](693.pdf) 
+ [J.01.05/11.xml](696.xml) | J.01.05/11 | J.01.05/11 | J1/5/11. Faculty Personnel Office Personnel Files, 1968-1980 RESTRICTED |   [PDF](696.pdf) 
+ [J.01.05/14.xml](700.xml) | J.01.05/14 | J.01.05/14 | J1/5/14. Faculty Personnel Office Part-time & Adjunct Files, 1981-1994  RESTRICTED |   [PDF](700.pdf) 
 
