@@ -6,4 +6,5 @@ EAD | EAD ID | Identifier | Title | Other versions
  [O.K837*.xml](52.xml) | O.K837* | O.K837* | Koniak, Rosa  b. 1907: Interview |   [PDF](52.pdf) 
  [O.K781J*.xml](54.xml) | O.K781J* | O.K781J* | Knudson, Juanita (Mrs. Harold)  (1902-1989): Interview |   [PDF](54.pdf) 
  [O.SCO67*.xml](108.xml) | O.SCO67* | O.SCO67* | Scopel, Victor (1913-1995): Interview |   [PDF](108.pdf) 
+ [O.W935.xml](191.xml) | O.W935 | O.W935 | Wright, Ross B. (1891-1977): Interview and Memoir |   [PDF](191.pdf) 
 
