@@ -62,4 +62,6 @@ EAD | EAD ID | Identifier | Title | Other versions
  [O.F249J.xml](1352.xml) | O.F249J | O.F249J | Farrington, Jess Douglas: Interview and Memoir |   [PDF](1352.pdf) 
  [O.EZ233.xml](1354.xml) | O.EZ233 | O.EZ233 | Ezell, Lin: Interview and Memoir |   [PDF](1354.pdf) 
  [O.EV275.xml](1355.xml) | O.EV275 | O.EV275 | Everson, Judy: Interview and Memoir |   [PDF](1355.pdf) 
+ [J.09.09/529.xml](1528.xml) | J.09.09/529 | J.09.09/529 | J9/9/529. Creative Arts Program, Staff and Student Art Portfolio, 1985 |   [PDF](1528.pdf) 
+ [J.09.05/11.xml](1546.xml) | J.09.05/11 | J.09.05/11 | J9/5/11. History Program, Graduation Reports, 1972-1977 RESTRICTED |   [PDF](1546.pdf) 
 
