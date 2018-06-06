@@ -27,4 +27,9 @@ EAD | EAD ID | Identifier | Title | Other versions
  [J.01.05/05.xml](693.xml) | J.01.05/05 | J.01.05/05 | J1/5/5. Faculty Personnel Office Personnel Committee Files, 1973-1986  RESTRICTED |   [PDF](693.pdf) 
  [J.01.05/11.xml](696.xml) | J.01.05/11 | J.01.05/11 | J1/5/11. Faculty Personnel Office Personnel Files, 1968-1980 RESTRICTED |   [PDF](696.pdf) 
  [J.01.05/14.xml](700.xml) | J.01.05/14 | J.01.05/14 | J1/5/14. Faculty Personnel Office Part-time & Adjunct Files, 1981-1994  RESTRICTED |   [PDF](700.pdf) 
+ [J.01.05/18.xml](709.xml) | J.01.05/18 | J.01.05/18 | J1/5/18. Vice-Chancellor of Academic Affairs  Closed Faculty Files   1983-1984 |   [PDF](709.pdf) 
+ [J.01.05/21.xml](722.xml) | J.01.05/21 | J.01.05/21 | J1/5/21. Faculty Personnel Office Part-time Faculty Personnel Files, 1973-1990 RESTRICTED |   [PDF](722.pdf) 
+ [J.01.05/22.xml](723.xml) | J.01.05/22 | J.01.05/22 | J1/5/22. Faculty Personnel Office Faculty Personnel Files, 1974-2005 RESTRICTED |   [PDF](723.pdf) 
+ [J.07.05/10.xml](743.xml) | J.07.05/10 | J.07.05/10 | J7/5/10. Child, Family and Community Services Program (CFCS), Student Files, 1975-1979  RESTRICTED |   [PDF](743.pdf) 
+ [J.07.06/10.xml](746.xml) | J.07.06/10 | J.07.06/10 | J7/6/10. Human Development Counseling (HDC), Student Files RESTRICTED |   [PDF](746.pdf) 
 

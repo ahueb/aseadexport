@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-ilsfu" url="Archon Finding Aid location">J.07.06/10</eadid><filedesc><titlestmt><titleproper>Archon Finding Aid Title <num>J.07.06/10</num></titleproper></titlestmt><publicationstmt><publisher>UIS Archives/Special Collections</publisher><address><addressline>Archives/Special Collections LIB 144</addressline><addressline>One University Plaza, MS BRK 140</addressline><addressline>Springfield, IL 62703-5407</addressline><addressline>twood1@uis.edu</addressline><addressline>URL: <extptr xlink:href="https://library.uis.edu/archives/index.html" xlink:show="new" xlink:title="https://library.uis.edu/archives/index.html" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2018-06-06 16:58:49 -0400</date>.</creation><langusage>und</langusage><descrules>other_unmapped</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>UIS Archives/Special Collections</corpname>
+    </repository>
+    <unittitle>J7/6/10. Human Development Counseling (HDC), Student Files RESTRICTED</unittitle>
+    <unitid>J.07.06/10</unitid>
+    <unitid audience="internal" identifier="375" type="Archon Instance::COLLECTION">375</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">21.33 Cubic Feet</extent>
+    </physdesc>
+    <unitdate normal="1972/2003" type="inclusive">1972-2003</unitdate>
+    <unitdate>Date acquired: 06/18/1979</unitdate>
+    <container id="aspace_01000797230bf76c414156ffbda5baee" label="Text" type="box">1</container>
+    <container id="aspace_e1d167be8574ff64ece55fe0519ddb93" label="Text" type="box">2</container>
+    <container id="aspace_ed9390d960a688543a6efc0fa6556d40" label="Text" type="box">3</container>
+    <container id="aspace_82011dc7d494121063ed70c1d9afa625" label="Text" type="box">4</container>
+    <container id="aspace_a587b613b57eb8830f68b1085ca1e2f7" label="Text" type="box">5</container>
+    <container id="aspace_07a70edd4d3cc80d87587e6504d3821e" label="Text" type="box">6</container>
+    <container id="aspace_663fee07a70d3fe690aa74b6256c9f43" label="Text" type="box">7</container>
+    <container id="aspace_1b014ffef31589edc2aca428db16e445" label="Text" type="box">8</container>
+    <container id="aspace_f400b3e33624f3ba3f009b5c9de70d4d" label="Text" type="box">9</container>
+    <container id="aspace_63a94b753bea38981bde6c4c5e31018b" label="Text" type="box">10</container>
+    <container id="aspace_e6246aab95d8e64743fc2cc6aa522a2d" label="Text" type="box">11</container>
+    <container id="aspace_478c094b09df719def01d31b454de9eb" label="Text" type="box">12</container>
+    <container id="aspace_ca42a511ea9aa37d1e7b5d40f3c619f7" label="Text" type="box">13</container>
+    <container id="aspace_b07c7c7190cbe7647c9e6b5d72bfe825" label="Text" type="box">14</container>
+    <container id="aspace_7878ee036b1d10d06accd16a2d60fce7" label="Text" type="box">15</container>
+    <container id="aspace_f83c92c276aeaa4ab1f5c04c0e5afa76" label="Text" type="box">16</container>
+    <container id="aspace_2e449993b6c4b24e52c7a9373b9206fd" label="Text" type="box">17</container>
+    <container id="aspace_6b1cb0e716f1bd962506d0321ce2dffd" label="Text" type="box">18</container>
+    <container id="aspace_664a26ba3aabbce5db3b3c0967bd9889" label="Text" type="box">19</container>
+    <container id="aspace_ad0791a0235bc619386e81e6e5b1b864" label="Text" type="box">20</container>
+    <container id="aspace_31eb2cedce8a5cce1b1043c68ad9b695" label="Text" type="box">21</container>
+    <container id="aspace_6c6eb30dd000df583302793485fe777e" label="Text" type="box">22</container>
+    <container id="aspace_3ede656861b43e314a790b6729f51972" label="Text" type="box">23</container>
+    <container id="aspace_5bc5e827022ce01053d9983fd9323760" label="Text" type="box">24</container>
+  </did>
+  <scopecontent id="aspace_f7e858595a7c112d2bfc433222a49e2b">
+    <head>Scope and Contents</head>
+<p>Student files of the HDC program including files of applicants, graduates, and other students.  Files contain memoranda, advisors' notes, transcripts, forms, graduation reports, appeals and other evaluative and advising materials.</p>  </scopecontent>
+  <arrangement id="aspace_3b805b27f8a5c25b28184025fd8b2521">
+    <head>Arrangement Note</head>
+<p>Alphabetical</p>  </arrangement>
+  <accessrestrict id="aspace_bef2d5e81f85d1b6d3a6e6e0b9a15259">
+    <head>Conditions Governing Access</head>
+<p>RESTRICTED</p>  </accessrestrict>
+  <phystech id="aspace_c7260598f077dd0bf9965bc4269b8d9b">
+    <head>Physical Access Requirements</head>
+<p>Collection is tentatively scheduled to be moved to remote storage facility.</p>  </phystech>
+  <acqinfo id="aspace_f274806b4a3117753a5d955c18a7b929">
+    <head>Source of Acquisition</head>
+<p>Human Development Counseling</p>  </acqinfo>
+  <accruals id="aspace_b67df584efe5c979215cb422b16a1117">
+    <head>Accruals and Additions</head>
+<p>12/18/1987, 7/7/97, 4/25/2013</p>  </accruals>
+  <dsc/>
+</archdesc>
+</ead>

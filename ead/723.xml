@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-ilsfu" url="Archon Finding Aid location">J.01.05/22</eadid><filedesc><titlestmt><titleproper>Archon Finding Aid Title <num>J.01.05/22</num></titleproper></titlestmt><publicationstmt><publisher>UIS Archives/Special Collections</publisher><address><addressline>Archives/Special Collections LIB 144</addressline><addressline>One University Plaza, MS BRK 140</addressline><addressline>Springfield, IL 62703-5407</addressline><addressline>twood1@uis.edu</addressline><addressline>URL: <extptr xlink:href="https://library.uis.edu/archives/index.html" xlink:show="new" xlink:title="https://library.uis.edu/archives/index.html" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2018-06-06 16:53:47 -0400</date>.</creation><langusage>und</langusage><descrules>other_unmapped</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>UIS Archives/Special Collections</corpname>
+    </repository>
+    <unittitle>J1/5/22. Faculty Personnel Office Faculty Personnel Files, 1974-2005 RESTRICTED</unittitle>
+    <origination label="creator">
+      <persname source="lcnaf">Academic Affairs</persname>
+    </origination>
+    <unitid>J.01.05/22</unitid>
+    <unitid audience="internal" identifier="362" type="Archon Instance::COLLECTION">362</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">4.66 Cubic Feet</extent>
+    </physdesc>
+    <unitdate normal="1974/2005" type="inclusive">1974-2005</unitdate>
+    <unitdate>Date acquired: 09/00/2006</unitdate>
+    <container id="aspace_cfe2f871a8a619c910480738eadbea5c" label="Text" type="box">1</container>
+    <container id="aspace_29f8f28d00898537c017ba5d6e2e19d2" label="Text" type="box">2</container>
+    <container id="aspace_6ea56d049141f9942433cc368cee3974" label="Text" type="box">3</container>
+    <container id="aspace_adc295ab5883e1fd1f0cfcd028c2bc35" label="Text" type="box">4</container>
+    <container id="aspace_52b40866eda3450702be11d949fec808" label="Text" type="box">5</container>
+    <container id="aspace_9c61c1719b7bfdb600c3b77e0bac18ba" label="Text" type="box">6</container>
+  </did>
+  <scopecontent id="aspace_a02e339a6c912b96b6824040b894a1d0">
+    <head>Scope and Contents</head>
+<p>This collection contains faculty personnel files kept by the Vice Chancellor for Academic Affairs.  These files contain notification of appointments and re-appointments: non-instructional assignment reports; professional activities reports; recommendations and decisions about retention, promotion, merit pay increase and tenure; appeals of decisions; documentation of public affairs activities; copies of published books and articles. These are the files on which Program, Cluster, and University Personnel Committees base their recommendations to conveners, deans, vice president for academic affairs and chancellor. These are files of either faculty, emeritus, resigned, or terminated.  </p><p>Closed faculty personnel files are restricted for use only by the Vice Chancellor for Academic Affairs and the Chancellor's Office.  This collection includes faculty who taught at SSU/UIS from 1974-2005.</p>  </scopecontent>
+  <arrangement id="aspace_82a8ba2bd11dc207346e85bfd374b17c">
+    <head>Arrangement Note</head>
+<p>Alphabetical</p>  </arrangement>
+  <accessrestrict id="aspace_4394b49dfe97813fb270d2a28e4ed5d3">
+    <head>Conditions Governing Access</head>
+<p>RESTRICTED</p>  </accessrestrict>
+  <dsc/>
+</archdesc>
+</ead>
