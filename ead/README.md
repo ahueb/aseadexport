@@ -32,4 +32,6 @@ EAD | EAD ID | Identifier | Title | Other versions
  [J.01.05/22.xml](723.xml) | J.01.05/22 | J.01.05/22 | J1/5/22. Faculty Personnel Office Faculty Personnel Files, 1974-2005 RESTRICTED |   [PDF](723.pdf) 
  [J.07.05/10.xml](743.xml) | J.07.05/10 | J.07.05/10 | J7/5/10. Child, Family and Community Services Program (CFCS), Student Files, 1975-1979  RESTRICTED |   [PDF](743.pdf) 
  [J.07.06/10.xml](746.xml) | J.07.06/10 | J.07.06/10 | J7/6/10. Human Development Counseling (HDC), Student Files RESTRICTED |   [PDF](746.pdf) 
+ [MC.35.xml](771.xml) | MC.35 | MC.35 | MC35. J Chr. Dusel Photograph Album, 1901-1902 |   [PDF](771.pdf) 
+ [MC.44.xml](792.xml) | MC.44 | MC.44 | MC44. Taylorville Mine War Scrapbook, 1933 |   [PDF](792.pdf) 
 
