@@ -34,4 +34,5 @@ EAD | EAD ID | Identifier | Title | Other versions
  [J.07.06/10.xml](746.xml) | J.07.06/10 | J.07.06/10 | J7/6/10. Human Development Counseling (HDC), Student Files RESTRICTED |   [PDF](746.pdf) 
  [MC.35.xml](771.xml) | MC.35 | MC.35 | MC35. J Chr. Dusel Photograph Album, 1901-1902 |   [PDF](771.pdf) 
  [MC.44.xml](792.xml) | MC.44 | MC.44 | MC44. Taylorville Mine War Scrapbook, 1933 |   [PDF](792.pdf) 
+ [##bs0.xml](822.xml) | ##bs0 | ##bs0 | O'Brien, Francis J. "O. B.": Interview and Memoir |   [PDF](822.pdf) 
 
