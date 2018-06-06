@@ -59,4 +59,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [O.H243.xml](1346.xml) | O.H243 | O.H243 | Harris, Nina: Interview and Memoir |   [PDF](1346.pdf) 
  [O.F412.xml](1348.xml) | O.F412 | O.F412 | Ferrara, Barbara: Interview and Memoir |   [PDF](1348.pdf) 
  [O.F249L.xml](1350.xml) | O.F249L | O.F249L | Farrington, Lorrie: Interview and Memoir |   [PDF](1350.pdf) 
+ [O.F249J.xml](1352.xml) | O.F249J | O.F249J | Farrington, Jess Douglas: Interview and Memoir |   [PDF](1352.pdf) 
+ [O.EZ233.xml](1354.xml) | O.EZ233 | O.EZ233 | Ezell, Lin: Interview and Memoir |   [PDF](1354.pdf) 
+ [O.EV275.xml](1355.xml) | O.EV275 | O.EV275 | Everson, Judy: Interview and Memoir |   [PDF](1355.pdf) 
 
