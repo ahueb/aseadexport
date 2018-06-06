@@ -35,4 +35,6 @@ EAD | EAD ID | Identifier | Title | Other versions
  [MC.35.xml](771.xml) | MC.35 | MC.35 | MC35. J Chr. Dusel Photograph Album, 1901-1902 |   [PDF](771.pdf) 
  [MC.44.xml](792.xml) | MC.44 | MC.44 | MC44. Taylorville Mine War Scrapbook, 1933 |   [PDF](792.pdf) 
  [##bs0.xml](822.xml) | ##bs0 | ##bs0 | O'Brien, Francis J. "O. B.": Interview and Memoir |   [PDF](822.pdf) 
+ [O.M612.xml](904.xml) | O.M612 | O.M612 | Miller, Bill (A.W. Pistorius)  b. 1923: Interview and Memoir |   [PDF](904.pdf) 
+ [O.M137.xml](939.xml) | O.M137 | O.M137 | McCoy, Mel  b. 1908: Interview and memoir |   [PDF](939.pdf) 
 
