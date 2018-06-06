@@ -17,4 +17,9 @@ EAD | EAD ID | Identifier | Title | Other versions
  [O.W586.xml](482.xml) | O.W586 | O.W586 | White, Captain Volney (1901-1966): Interview and Memoir |   [PDF](482.pdf) 
  [TM.TM02.xml](544.xml) | TM.TM02 | TM.TM02 | TM02. Tape Masters Collection, Contemporary Perspectives on Abraham Lincoln, 1976 |   [PDF](544.pdf) 
  [##2xj.xml](581.xml) | ##2xj | ##2xj | Donner Family Collection |   [PDF](581.pdf) 
+ [O.AU24*.xml](635.xml) | O.AU24* | O.AU24* | Audi, Mary: Memoir |   [PDF](635.pdf) 
+ [O.B174.xml](641.xml) | O.B174 | O.B174 | Baker, J. Harold "Bud" b. 1907 |   [PDF](641.pdf) 
+ [E.04.02/02.xml](642.xml) | E.04.02/02 | E.04.02/02 | E4/2/2. University Legal Counsel Grievance Files, 1984-1992 |   [PDF](642.pdf) 
+ [E.04.02/05.xml](648.xml) | E.04.02/05 | E.04.02/05 | E4/2/5. University Legal Counsel National League of Nursing Review |   [PDF](648.pdf) 
+ [E.04.02/07.xml](650.xml) | E.04.02/07 | E.04.02/07 | E4/2/7. University Legal Counsel, Accession Date 08/27/1997 |   [PDF](650.pdf) 
 
