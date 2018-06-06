@@ -8,4 +8,5 @@ EAD | EAD ID | Identifier | Title | Other versions
  [O.SCO67*.xml](108.xml) | O.SCO67* | O.SCO67* | Scopel, Victor (1913-1995): Interview |   [PDF](108.pdf) 
  [O.W935.xml](191.xml) | O.W935 | O.W935 | Wright, Ross B. (1891-1977): Interview and Memoir |   [PDF](191.pdf) 
  [M.06.xml](225.xml) | M.06 | M.06 | M6. UIS Horizons Publication, 1996- (See D2/1/2) |   [PDF](225.pdf) 
+ [K.04.02/05.xml](255.xml) | K.04.02/05 | K.04.02/05 | K4/2/5. Career Services Student Placement Files, 1972-1978 RESTRICTED |   [PDF](255.pdf) 
 
